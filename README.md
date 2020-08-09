@@ -41,5 +41,11 @@ In this instruction based game , after every time the player gets a random outpu
 For that , after every action , the code should print the below pattern and a special symbol should be used to denote the position of the player **(it's position gets updated according to the random value in range 1 to 6).
 
 ![image](https://github.com/Invincible-ni/Python-and-ladder/blob/master/Screenshot_2020-08-09-14-33-53-079_ru.iiec.pydroid3.jpg)
+<br/>
+_Few screenshots which I've captured while playing_
+
+![image](https://github.com/Invincible-ni/Python-and-ladder/blob/master/IMG_20200809_145530%20(1).jpg)
+</br>
+![image](https://github.com/Invincible-ni/Python-and-ladder/blob/master/Screenshot_2020-08-09-14-49-48-271_ru.iiec.pydroid3.jpg)
 
 
